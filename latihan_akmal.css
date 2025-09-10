@@ -1,0 +1,18 @@
+li:first-child a {
+    color:goldenrod;
+}
+li:last-child a {
+    color:green;
+}
+li:nth-child(even) a {
+    color: aqua;
+}
+li:nth-child(odd) a{
+    color:violet;
+}
+p:first-of-type{
+    color:red;
+}
+p:last-of-type{
+    color:silver;
+}
